@@ -1,4 +1,4 @@
-# Mobile Apps
+# Mobile Apps Developed by Gideon
 
 ## iOS Apps
 - [Mungu Kwanza](https://apps.apple.com/au/app/mungu-kwanza/id1570979782)
